@@ -1,6 +1,5 @@
 # Firefox-private-settings
-![Firefox_logo,_2019 svg_result](https://user-images.githubusercontent.com/51737588/171398895-3ee49b7a-018c-4ad4-afc8-1bc695cde61f.png)
-
+![firefox](https://user-images.githubusercontent.com/51737588/171399164-73e17b63-fdea-4f9c-af99-94e005d23344.png)
 
 Мои настройки Firefox. Отключена реклама , спонсоры и телеметрия + настроен скролл
 
